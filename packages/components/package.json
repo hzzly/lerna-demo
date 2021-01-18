@@ -17,7 +17,20 @@
     "registry": "http://localhost:4873/"
   },
   "scripts": {
-    "test": "echo testing component"
+    "build": "npm run clean && tsc",
+    "clean": "rm -rf lib"
   },
-  "gitHead": "4b645264e519461c29b10f0c8cd0b9d70cb552bf"
+  "gitHead": "4b645264e519461c29b10f0c8cd0b9d70cb552bf",
+  "dependencies": {
+    "@hzzly/utils": "^1.1.1",
+    "styled-components": "^5.2.1"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/styled-components": "^5.1.7"
+  },
+  "peerDependencies": {
+    "react": ">=16.0.0",
+    "react-dom": ">=16.0.0"
+  }
 }
