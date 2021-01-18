@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.2.0](https://github.com/hzzly/lerna-demo/compare/@hzzly/components@1.1.1...@hzzly/components@1.2.0) (2021-01-18)
+
+
+### Features
+
+* **components/utils:** components utils ([7008411](https://github.com/hzzly/lerna-demo/commit/7008411fc57c7dbc1936a25fd7b298c96f73df6a))
+
+
+
+
+
 ## [1.1.1](https://github.com/hzzly/lerna-demo/compare/@hzzly/components@1.1.0...@hzzly/components@1.1.1) (2021-01-18)
 
 

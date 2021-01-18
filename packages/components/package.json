@@ -1,6 +1,6 @@
 {
   "name": "@hzzly/components",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "> TODO: description",
   "author": "hzzly <hjingren@aliyun.com>",
   "homepage": "",
@@ -22,7 +22,7 @@
   },
   "gitHead": "4b645264e519461c29b10f0c8cd0b9d70cb552bf",
   "dependencies": {
-    "@hzzly/utils": "^1.1.1",
+    "@hzzly/utils": "^1.2.0",
     "styled-components": "^5.2.1"
   },
   "devDependencies": {
