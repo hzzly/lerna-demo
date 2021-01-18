@@ -1,0 +1,20 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "config": {
+    "commitizen": {
+      "path": "cz-lerna-changelog"
+    }
+  },
+  "scripts": {
+    "commit": "git-cz"
+  },
+  "devDependencies": {
+    "commitizen": "^4.2.3",
+    "cz-lerna-changelog": "^2.0.3",
+    "lerna": "^3.22.1"
+  }
+}

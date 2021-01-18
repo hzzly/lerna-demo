@@ -1,0 +1,8 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "npmClinet": "yarn",
+  "useWorkspaces": true,
+  "version": "independent"
+}
