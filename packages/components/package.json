@@ -14,9 +14,10 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
+    "registry": "http://localhost:4873/"
   },
   "scripts": {
     "test": "echo testing component"
-  }
+  },
+  "gitHead": "4b645264e519461c29b10f0c8cd0b9d70cb552bf"
 }
